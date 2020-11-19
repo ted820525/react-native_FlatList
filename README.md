@@ -1,6 +1,13 @@
-﻿# react-native_FlatList
+# react-native_FlatList
 
 
+
+## Project setup
+```
 npm install
+```
 
-npm install --save react-native-vector-icons
+## Project setup
+```
+npm install
+```
