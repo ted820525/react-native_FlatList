@@ -7,7 +7,7 @@
 npm install
 ```
 
-## Project setup
+## Table of Contents
 ```
-npm install
+npm install --save react-native-vector-icons
 ```
